@@ -20,6 +20,7 @@ module.exports = {
       fontFamily: {
         sans: ["var(--font-family-dmsans)"]
       },
+      height: {35: "35rem"},
       colors: {
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
